@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&repeat=false&width=435&lines=hey+there+%F0%9F%91%8B%2C+i'm+clouds.+%E2%98%81%EF%B8%8F"alt="Typing SVG" />
+</p>
 
-<!--
-**clquds/clquds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Info
+- 🔭 I’m currently working on some **minecraft project(s)**.
+- 🌱 I’m currently learning **Java**.
+- 💬 I used to use **Skript**, so if you want some help with that free to **contact me**.
+- 🐍 Ever player ViperMC? **Contact me!**.
 
-Here are some ideas to get you started:
+## Contact me
+- Discord: **@clquds**
+- Telegram: [**@clqudz**](https://t.me/clqudz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clquds&color=ADD8E6" alt="GitHub Profile Views" />
+</p>
+
