@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on some **minecraft project(s)**.
 - 🌱 I’m currently learning **Java**.
 - 💬 I used to use **Skript**, so if you want some help with that free to **contact me**.
-- 🐍 Ever player ViperMC? **Contact me!**.
+- 🐍 Ever player ViperMC? **Contact me**!
 
 ## Contact me
 - Discord: **@clquds**
