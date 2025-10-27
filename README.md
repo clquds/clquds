@@ -3,10 +3,9 @@
 </p>
 
 ## Info
-- 🔭 I’m currently working on some **minecraft project(s)**.
-- 🌱 I’m currently learning **Java**.
-- 💬 I used to use **Skript**, so if you want some help with that free to **contact me**.
-- 🐍 Ever played ViperMC? **Contact me**!
+- 🔭 I’m currently working on various **minecraft projects** during my free time.
+- ☕ I mainly code in **Java**, focused around minecraft development.
+- 💬 Feel free to reach out for **plugin inquiries, collaborations, or commissions**.
 
 ## Contact me
 - Discord: **@clquds**
